@@ -13,7 +13,7 @@ import numpy as np
 # In[2]:
 
 
-df= pd.read_excel("C:/Users/Viswanathan/Desktop/Gestational Diabetic Dat Set.xlsx")
+df= pd.read_excel("https://github.com/Viswanathan-Munirathinam/Dissertation-project-2/blob/main/Gestational%20Diabetic%20Data%20Set.xlsx")
 
 
 # In[3]:
